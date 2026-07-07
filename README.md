@@ -16,7 +16,7 @@ Name  | About  | Supported Languages | License
 |[Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef) |CEF is a open source project based on the Google Chromium project.        |   JavaScript | BSD |
 |[Erik](https://github.com/phimage/Erik) | Headless browser on top of Kanna and WebKit.|Swift| MIT |
 |[jBrowserDriver](https://github.com/machinepublishers/jbrowserdriver) | A Selenium-compatible headless browser which is written in pure Java. WebKit-based. Works with any of the Selenium Server bindings.|Java| Apache License v2.0 |
-|[PhantomJS](http://phantomjs.org/) | [[Unmaintained]](https://github.com/casperjs/casperjs) CasperJS is an open source navigation scripting & testing utility written in Javascript for the PhantomJS WebKit headless browser and SlimerJS (Gecko).        |   JavaScript | MIT |
+|[PhantomJS](http://phantomjs.org/) | [[Unmaintained]](https://groups.google.com/forum/#!topic/phantomjs/9aI5d-LDuNE) PhantomJS is a headless WebKit scriptable with a JavaScript API. It has fast and native support for various web standards: DOM handling, CSS selector, JSON, Canvas, and SVG. | JavaScript, Python, Ruby, Java, C#, Haskell, Objective-C, Perl, PHP, R(via [Selenium](http://docs.seleniumhq.org/about/platforms.jsp#programming-languages))  | BSD 3-Clause |
 |[Splash](https://github.com/scrapinghub/splash) | Splash is a javascript rendering service with an HTTP API. It's a lightweight browser with an HTTP API, implemented in Python using Twisted and QT.|Any| BSD 3-Clause |
 |[Surf](https://github.com/headzoo/surf)|Surf is an open source project that implements a virtual web browser that can be controlled programatically | Go | MIT
 
@@ -123,7 +123,7 @@ Name  | About  | Supported Languages | License
 |[MechanicalSoup](https://github.com/hickford/MechanicalSoup) | A Python library for automating interaction with websites.|Python| MIT |
 |[mechanize](http://wwwsearch.sourceforge.net/mechanize/) | Stateful programmatic web browsing.|Python| BSD 3-Clause, ZPL 2.1 |
 |[node-as-browser](https://github.com/seebigs/node-as-browser) | Create a browser-like environment within Node.js |JavaScript| MIT |
-|[RoboBrowser](https://github.com/jmcarp/robobrowser) | A simple, Pythonic library for browsing the web without a standalone web browser.|Python| BSD 3-Clause |
+|[RoboBrowser](https://github.com/jmcarp/robobrowser) | A simple, Pythonic library for browsing web without a standalone web browser.|Python| BSD 3-Clause |
 |[SimpleBrowser](https://github.com/SimpleBrowserDotNet/SimpleBrowser) | A flexible and intuitive web browser engine designed for automation tasks. Built on the .Net 4 framework.|.NET| BSD 3-Clause |
 |[twill](http://twill.idyll.org/) | Twill is a simple language that interacts with basic HTML pages (no JavaScript support).|Python| MIT |
 |[WeasyPrint](http://weasyprint.org/) | WeasyPrint is a visual rendering engine for HTML and CSS that can export to PDF. It aims to support web standards for printing.|Python| BSD 3-Clause |
